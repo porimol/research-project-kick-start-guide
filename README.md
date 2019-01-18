@@ -1,1 +1,1 @@
-# research-project-kick--start
+# How to kick start a research project
